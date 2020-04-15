@@ -27,7 +27,9 @@ Throughout your event you'll be working with Oracle solution engineers.  Click [
 
 Several weeks leading up to the event we'll be engaging with you to learn more about your use cases, the services we may use, and who will be participating.  Here is a summary of what to expect:
 - Four - six weeks prior: Identify possible use cases (high level), identify participants, and begin team formation.
-- 
+- Two - four weeks prior: Confirm dates, participants, teams, and use case details.
+- One - two weeks prior: Attend structured learning sessions, prepare tenancy and cloud services, confirm executive participation, confirm participant preparation (desktop setup, zoom, etc.).
+- Event week: Typically runs two - three days.  See sample agenda.
 
 Lead Up to the Event
 ---
