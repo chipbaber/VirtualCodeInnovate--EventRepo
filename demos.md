@@ -1,4 +1,4 @@
-##Available Demonstrations
+# Available Demonstrations
 ---
 
 Please let us know which (or all) of the demonstrations you would prefer to see during the clinic. 
