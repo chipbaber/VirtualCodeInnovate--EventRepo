@@ -9,7 +9,7 @@ Virtual Code Innovate is a [2-3 day online event](code_innovate_11_18_pitch.pdf)
 
 Sounds Interesting..
 
-**Enter Team Members Here:**
+Enter Team Members Here:
 ---
 [**Team 1:**](https://github.com/chipbaber/virtualCodeInnovate/wiki)
 | Name: | Email: |Github Username: | Phone: | Oracle Engineer |
@@ -23,7 +23,7 @@ Sounds Interesting..
 
 Throughout your event you'll be working with Oracle solution engineers.  Click [here](team.md) to learn more about them.
 
-**Agenda/Logistics**
+Agenda/Logistics
 ---
 Several weeks leading up to the event we'll be engaging with you to learn more about your use cases, the services we may use, and who will be participating.  Here is a summary of what to expect:
 - **Four - six weeks prior:** 
@@ -32,7 +32,7 @@ Identify possible use cases (high level), identify participants, and begin team 
 - **One - two weeks prior:** Attend structured learning sessions, prepare tenancy and cloud services, confirm executive participation, confirm participant preparation (desktop setup, zoom, etc.).
 - **Event week:** Typically runs two - three days.  You will break out into teams, ideate, establish goals, build a solution, and present to executive.  See sample [agenda](agenda.pdf).
 
-Lead Up to the Event
+Preparation
 ---
 **Use Case Overview:** Initial discussions will identify possible use cases.  Document them [here](Use%20Cases.md).  When teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
 
@@ -41,5 +41,7 @@ Lead Up to the Event
 **Zoom:** We will also be using zoom leading up to and throughout the event.  We will be using [this meeting ID](https://oracle.zoom.us/my/frank.baber), and each team will use their own breakout room to collaborate.
 
 **Development Tools:**  Depending on your use cases and services, you may require additional client tools such as [git](https://git-scm.com/downloads), [VNC](https://www.realvnc.com/en/connect/download/viewer/), or a code editor such as [ATOM](https://flight-manual.atom.io/getting-started/sections/installing-atom/) or [Visual Studio Code](https://code.visualstudio.com/download).
+
+**Structured Learning/Demos:**
 
 
