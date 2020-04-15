@@ -1,6 +1,10 @@
 # Available Demonstrations
 
-Please let us know which (or all) of the demonstrations you would prefer to see during the clinic. 
+Please let us know which (or all) of the demonstrations you would like to see. 
+
+| Demo Name: | Description | Participant Email |
+|---|---|---|
+|  | |  | 
 
 1. Washington Post OIC, Invoice Demo - Time: 30 min
 
