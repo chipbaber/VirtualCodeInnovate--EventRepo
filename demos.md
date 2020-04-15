@@ -4,11 +4,11 @@ Please let us know which (or all) of the demonstrations you would like to see.
 
 **Washington Post OIC, Invoice Demo - Time: 30 min**
 
- Automating invoice processing helps to save a serious amount of time and money compared with manual paper invoice processing, creating efficiencies and increasing the accuracy of captured data.  Validate your invoices and check your invoice data against data files e.g. supplier name, amount and purchase order number.  It also reduces your reliance on paper forms, faxes, and documents. It enables you to take advantage of dynamic discounting, eliminate late-payment fees, and improve throughput. Accounts payable invoice automation is done with the combination of Robotic Process Automation and Process Cloud in Oracle Integration Cloud. This demo emphasizes end to end automation of this business process.
+Automating invoice processing helps to save a serious amount of time and money compared with manual paper invoice processing, creating efficiencies and increasing the accuracy of captured data.  Validate your invoices and check your invoice data against data files e.g. supplier name, amount and purchase order number.  It also reduces your reliance on paper forms, faxes, and documents. It enables you to take advantage of dynamic discounting, eliminate late-payment fees, and improve throughput. Accounts payable invoice automation is done with the combination of Robotic Process Automation and Process Cloud in Oracle Integration Cloud. This demo emphasizes end to end automation of this business process.
 
 Signup:
 
-2. OIC Merging with ERP Ledger Demo. - Time: 30 min
+**OIC Merging with ERP Ledger Demo. - Time: 30 min**
 Businesses usually have multiple applications that they maintain for a variety of business activities, each of which generates large volumes of financial transactions on a daily basis.  Our customer required all of these externally generated transactions to be automatically integrated into Oracle ERP Cloud to post to the General Ledger, providing a single consolidated view.  This demo focuses on how to merge ERP ledgers utilizing the adapters in Oracle Integration Cloud.
 
 3. OIC/PO to ERP via FTP File Demo - Time: 30 min
