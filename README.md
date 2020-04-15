@@ -34,7 +34,7 @@ Identify possible use cases (high level), identify participants, and begin team 
 
 Lead Up to the Event
 ---
-**Use Case Overview:** Initial discussions will identify possible use cases.  Document them [here](Use Cases.md).  When teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
+**Use Case Overview:** Initial discussions will identify possible use cases.  Document them [here](Use%20Cases.md).  When teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
 
 **Slack:** We will be using Slack to communicate.  [**Here is the link to your event slack channel**](https://app.slack.com/client/T010P2VN7R8/learning-slack).  Download Slack for [Windows](https://slack.com/downloads/windows), [MAC](https://slack.com/help/articles/207677868-Download-Slack-for-Mac), [Linux](https://slack.com/downloads/linux), or [Andriod](https://slack.com/downloads/android).
 
