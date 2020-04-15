@@ -40,6 +40,6 @@ Lead Up to the Event
 
 **Zoom:** We will also be using zoom leading up to and throughout the event.  We will be using [this meeting ID](https://oracle.zoom.us/my/frank.baber), and each team will use their own breakout room to collaborate.
 
-**Development Tools:**  Depending on your use cases and services, you may require additional client tools such as [git](https://git-scm.com/downloads), [VNC](https://www.realvnc.com/en/connect/download/viewer/), or a code editor such as [ATOM](https://flight-manual.atom.io/getting-started/sections/installing-atom/) or [Visual Studio Code](https://code.visualstudio.com/download)
+**Development Tools:**  Depending on your use cases and services, you may require additional client tools such as [git](https://git-scm.com/downloads), [VNC](https://www.realvnc.com/en/connect/download/viewer/), or a code editor such as [ATOM](https://flight-manual.atom.io/getting-started/sections/installing-atom/) or [Visual Studio Code](https://code.visualstudio.com/download).
 
 
