@@ -34,7 +34,7 @@ Identify possible use cases (high level), identify participants, and begin team 
 
 Preparation
 ---
-**Use Case Overview:** Initial discussions will identify possible use cases.  Document them [here](Use%20Cases.md).  After teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
+**Use Case Overview:**  Initial discussions will identify possible use cases.  Document them [here](Use%20Cases.md).  After teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
 
 **Structured Learning/Demos:** Prior to the event you will be introduced to Cloud Services that you may use to solve your use case.  Often going into the build process you may not be certain of what you use, and may want to know more about a particular service.  You can 'sign up' for demos that you're interested in [here](demos.md).
 
