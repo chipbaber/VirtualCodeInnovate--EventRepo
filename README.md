@@ -11,12 +11,12 @@ Sounds Interesting..
 
 **Enter Team Members Here:**
 
-**Team 1:**  [Link to Team Page](https://github.com/chipbaber/virtualCodeInnovate/wiki)
+[**Team 1:**](https://github.com/chipbaber/virtualCodeInnovate/wiki)
 | Name: | Email: |Github Username: | Phone: | Oracle Engineer |
 |---|---|---|---|---|
 |  | 	|  |  |  |
 
-Team 2
+[**Team 2:**](https://github.com/chipbaber/virtualCodeInnovate/wiki)
 | Name: | Email: |Github Username: | Phone: | Oracle Engineer |
 |---|---|---|---|---|
 |  | 	|  |  |  |
