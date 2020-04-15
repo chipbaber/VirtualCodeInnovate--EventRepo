@@ -1,6 +1,5 @@
 # Available Demonstrations
 ---
-
 Please let us know which (or all) of the demonstrations you would prefer to see during the clinic. 
 
 1. Washington Post OIC, Invoice Demo - Time: 30 min
