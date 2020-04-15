@@ -21,6 +21,8 @@ Sounds Interesting..
 |---|---|---|---|---|
 |  | 	|  |  |  |
 
+Throughout your event you'll be working with Oracle solution engineers.  Click [here](team.md) to learn more about them.
+
 Lead Up to the Event
 ---
 **Use Case:** Once your teams are formed you can document details about your use case on [**this page**](https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/wiki/Use-Case-Detail).
@@ -37,5 +39,4 @@ During Event
 
 **Presentation:** On the final day you will present your solution to management, and use a [**lightning talk template**](https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/tree/master/Resources/lightning_talk_template.pptx) as part of the presentation.
 
-**[Meet Your Oracle Support Team!](team.md)**
 
