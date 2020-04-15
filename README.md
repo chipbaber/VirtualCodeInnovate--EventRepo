@@ -24,18 +24,18 @@ Sounds Interesting..
 Throughout your event you'll be working with Oracle solution engineers.  Click [here](team.md) to learn more about them.
 
 **Agenda/Logistics**
-
+---
 Several weeks leading up to the event we'll be engaging with you to learn more about your use cases, the services we may use, and who will be participating.  Here is a summary of what to expect:
-- Four - six weeks prior: Identify possible use cases (high level), identify participants, and begin team formation.
-- Two - four weeks prior: Confirm dates, participants, teams, and use case details.
+- Four - six weeks prior: 
+Identify possible use cases (high level), identify participants, and begin team formation.
+- Two - four weeks prior: 
+  - Confirm dates, participants, teams, and use case details.
 - One - two weeks prior: Attend structured learning sessions, prepare tenancy and cloud services, confirm executive participation, confirm participant preparation (desktop setup, zoom, etc.).
-- Event week: Typically runs two - three days.  See sample [agend](agenda.pdf).
+- Event week: Typically runs two - three days.  See sample [agenda](agenda.pdf).
 
 Lead Up to the Event
 ---
 **Use Case:** Once your teams are formed you can document details about your use case on [**this page**](https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/wiki/Use-Case-Detail).
-
-**Tenancy/Service Configuration:**  Leading up to the Code Innovate event you will need to set up your tenancy with users and services in advance to avoid delays in building out your solutions.  Use [**this sample template**](https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/wiki/Service-Configuration) as a guideline.
 
 **Slack:** We will be using Slack to communicate.  [**Here is the link to your event slack channel**](https://app.slack.com/client/T010P2VN7R8/learning-slack).
 
