@@ -23,6 +23,12 @@ Sounds Interesting..
 
 Throughout your event you'll be working with Oracle solution engineers.  Click [here](team.md) to learn more about them.
 
+**Agenda/Logistics**
+
+Several weeks leading up to the event we'll be engaging with you to learn more about your use cases, the services we may use, and who will be participating.  Here is a summary of what to expect:
+- Four - six weeks prior: Identify possible use cases (high level), identify participants, and begin team formation.
+- 
+
 Lead Up to the Event
 ---
 **Use Case:** Once your teams are formed you can document details about your use case on [**this page**](https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/wiki/Use-Case-Detail).
