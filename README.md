@@ -29,7 +29,7 @@ Several weeks leading up to the event we'll be engaging with you to learn more a
 - Four - six weeks prior: Identify possible use cases (high level), identify participants, and begin team formation.
 - Two - four weeks prior: Confirm dates, participants, teams, and use case details.
 - One - two weeks prior: Attend structured learning sessions, prepare tenancy and cloud services, confirm executive participation, confirm participant preparation (desktop setup, zoom, etc.).
-- Event week: Typically runs two - three days.  See sample agenda.
+- Event week: Typically runs two - three days.  See sample [agend](agenda.pdf).
 
 Lead Up to the Event
 ---
