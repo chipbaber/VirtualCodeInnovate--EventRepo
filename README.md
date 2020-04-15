@@ -13,7 +13,7 @@ Sounds Interesting..
 
 Team 1
 | Name: | Email: |Github Username: | Phone: | Oracle Engineer |
-|---	        |---	                |---	          |---	         |
+|---|---|---|---|---|
 |  | 	|  |  |  |
 
 
