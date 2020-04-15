@@ -26,24 +26,20 @@ Throughout your event you'll be working with Oracle solution engineers.  Click [
 **Agenda/Logistics**
 ---
 Several weeks leading up to the event we'll be engaging with you to learn more about your use cases, the services we may use, and who will be participating.  Here is a summary of what to expect:
-- Four - six weeks prior: 
+- **Four - six weeks prior:** 
 Identify possible use cases (high level), identify participants, and begin team formation.
-- Two - four weeks prior: Confirm dates, participants, teams, and use case details.
-- One - two weeks prior: Attend structured learning sessions, prepare tenancy and cloud services, confirm executive participation, confirm participant preparation (desktop setup, zoom, etc.).
-- Event week: Typically runs two - three days.  You will break out into teams, ideate, establish goals, build a solution, and present to executive.  See sample [agenda](agenda.pdf).
+- **Two - four weeks prior:** Confirm dates, participants, teams, and use case details.
+- **One - two weeks prior:** Attend structured learning sessions, prepare tenancy and cloud services, confirm executive participation, confirm participant preparation (desktop setup, zoom, etc.).
+- **Event week:** Typically runs two - three days.  You will break out into teams, ideate, establish goals, build a solution, and present to executive.  See sample [agenda](agenda.pdf).
 
 Lead Up to the Event
 ---
-**Use Cases:** Initial discussions will identify possible use cases.  When teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
+**Use Case Overview:** Initial discussions will identify possible use cases.  When teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
 
 **Slack:** We will be using Slack to communicate.  [**Here is the link to your event slack channel**](https://app.slack.com/client/T010P2VN7R8/learning-slack).  Download Slack for [Windows](https://slack.com/downloads/windows), [MAC](https://slack.com/help/articles/207677868-Download-Slack-for-Mac), [Linux](https://slack.com/downloads/linux), or [Andriod](https://slack.com/downloads/android).
 
 **Zoom:** We will also be using zoom leading up to and throughout the event.  We will be using [**this meeting ID**](https://oracle.zoom.us/my/frank.baber), and each team will use their own breakout room to collaborate.
 
-During Event
----
-**Ideation/Team Goals:** We start off by having you ideate on your use cases by flushing out ideas on approaches to solve your problem, and setting team goals (including specifying what is in and out of scope.  Use [this page](https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/wiki/Ideation) to document your ideas and [this page] (https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/wiki/Goal-Statement) to set team goals.
-
-**Presentation:** On the final day you will present your solution to management, and use a [**lightning talk template**](https://github.com/chipbaber/CodeInnovate-HamtonInc-Coder_Rock/tree/master/Resources/lightning_talk_template.pptx) as part of the presentation.
+**Development Tools:**  Depending on your use cases and services, you may require additional client tools such as [git](https://git-scm.com/downloads), [VNC](https://www.realvnc.com/en/connect/download/viewer/), or a code editor such as [ATOM](https://flight-manual.atom.io/getting-started/sections/installing-atom/) or [Visual Studio Code](https://code.visualstudio.com/download)
 
 
