@@ -9,19 +9,7 @@ Virtual Code Innovate is a [2-3 day online event](code_innovate_11_18_pitch.pdf)
 
 Sounds Interesting..
 
-Enter Team Members Here:
----
-[**Team 1:**](https://github.com/chipbaber/virtualCodeInnovate/wiki)
-| Name: | Email: |Github Username: | Phone: | Oracle Engineer |
-|---|---|---|---|---|
-|  | 	|  |  |  |
-
-[**Team 2:**](https://github.com/chipbaber/virtualCodeInnovate/wiki)
-| Name: | Email: |Github Username: | Phone: | Oracle Engineer |
-|---|---|---|---|---|
-|  | 	|  |  |  |
-
-Throughout your event you'll be working with Oracle solution engineers.  Click [here](team.md) to learn more about them.
+Throughout your event you'll be working with Oracle solution engineers.  Click [here](oracleteam.md) to learn more about them.
 
 Agenda/Logistics
 ---
