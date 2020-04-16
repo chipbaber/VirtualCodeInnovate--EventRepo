@@ -6,12 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-
   </head>
   <body>
     <img src="https://chipbaber.github.io/virtualCodeInnovate/img/ci_header.png" width="100%">
+    <div class="nav">
+      <div class="nav-item"><a href="README.md">Home</a></div>
+      <div class="nav-item"><a href="groups.md">Groups</a></div>
+      <div class="nav-item"><a href="team.md">Our Team</a></div>
+      <div class="nav-item"><a href="calendar.md">Agenda/Logistics</a></div>
+      <div class="nav-item"><a href="pre-eventChecklist.md">Virtual Setup</a></div>
+      <div class="nav-item"><a href="useCases.md">Use Case Overview</a></div>
+    </div>
+    
     <div class="container-lg px-3 my-5 markdown-body">
-
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
