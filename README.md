@@ -1,8 +1,8 @@
-<img src="img/ci_header.png" width="100%">
+[Home](README.md)   |   [Calendar](calendar.md)
 
 # Welcome to Oracle's Virtual Code Innovate Event Repository
 
-Virtual Code Innovate is a [2-3 day online event](code_innovate_11_18_pitch.pdf) where Oracle engineers will codevelop with you on use cases in the Cloud. This github project contains the core checklists, templates and coordination links required to execute the online event. 
+Virtual Code Innovate is a [2-3 day online event](code_innovate_11_18_pitch.pdf) where Oracle engineers will codevelop with you on use cases in the Cloud. This github project contains the core checklists, templates and coordination links required to execute the online event.
 <a href="https://www.youtube.com/watch?v=haHgmQsTA9Y" target="promo" >
 ![thumbnail of promo](img/promo_thumb.jpg)
 </a>
@@ -26,7 +26,7 @@ Throughout your event you'll be working with Oracle solution engineers.  Click [
 Agenda/Logistics
 ---
 Several weeks leading up to the event we'll be engaging with you to learn more about your use cases, the services we may use, and who will be participating.  Here is a summary of what to expect:
-- **Four - six weeks prior:** 
+- **Four - six weeks prior:**
 Identify possible use cases (high level), identify participants, and begin team formation.
 - **Two - four weeks prior:** Confirm dates, participants, teams, and use case details.
 - **One - two weeks prior:** Attend structured learning sessions, prepare tenancy and cloud services, confirm executive participation, confirm participant preparation (desktop setup, zoom, etc.).
