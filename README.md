@@ -9,7 +9,9 @@ Virtual Code Innovate is a [2-3 day online event](code_innovate_11_18_pitch.pdf)
 
 Sounds Interesting..
 
-Throughout your event you'll be working with Oracle solution engineers.  Click [here](oracleteam.md) to learn more about them.
+Teams
+---
+What makes Code Innovate events so fun and effective are team dynamics.  Participants are put into [teams](codeteams.md) that work on solutions to use cases.  All teams will have Oracle engineers that will work at your side to help and guide you through the build process.  Click [here](oracleteam.md) to learn more about your Oracle Solution Engineering partners.  
 
 Agenda/Logistics
 ---
