@@ -1,6 +1,4 @@
-<img src="img/ci_header.png" width="100%">
-
-# Get to Know our Engineers
+# Below are the Engineers that will be Supporting your Event
 
 **Chip Baber - Event Director**
 ---
