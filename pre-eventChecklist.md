@@ -1,5 +1,3 @@
-<img src="img/ci_header.png" width="100%">
-
 ## Below is a List of Software Required to Participate in the event.
 
 - [ ] Zoom

@@ -19,7 +19,7 @@ __My Leisure Passion:__
 ![thumbnail of promo](img/derrick.png)
 
 __My Work Passion:__  After over 20 years at Oracle I still like the constant change and opportunity to build expertise on emerging technologies. In my technical sales role I enjoy the combination of hands on development work and the personal/social side of customer facing presentations and discussions.
- 
+
 __My Leisure Passion:__ Playing squash!  Living in the pacific northwest I enjoy hiking, local Portland brewpubs, and hanging out with family.
 
  **Steven Nichols - Engineering Team Lead**
@@ -27,7 +27,7 @@ __My Leisure Passion:__ Playing squash!  Living in the pacific northwest I enjoy
  [Linkedin](https://www.linkedin.com/in/steve-nichols-820b634)
 
 ![thumbnail of promo](img/steven.png)
- 
-__My Work Passion:__ 
- 
-__My Leisure Passion:__ 
+
+__My Work Passion:__
+
+__My Leisure Passion:__
