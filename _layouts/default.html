@@ -17,8 +17,8 @@
     <img src="https://chipbaber.github.io/virtualCodeInnovate/img/ci_header.png" class="banner-img">
     </div>
     <div class="nav">
-    {% for member in site.data.navigation %}
-    <div class="nav-item"><a href="{{ navigation.link }}">{{ navigation.nav-text }}</a></div>
+    {% for nav-item in site.data.navigation %}
+    <div class="nav-item"><a href="{{ nav-item.link }}">{{ nav-item.nav-text }}</a></div>
     {% endfor %}
     </div>
     <!--
