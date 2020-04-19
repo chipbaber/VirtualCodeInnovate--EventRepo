@@ -1,0 +1,20 @@
+- nav-text: Home
+  link: index.html
+
+- nav-text: Groups
+  link: codeteams.html
+
+- nav-text: Our Team
+  link: oracleteam.html
+
+- nav-text: Agenda
+  link: calendar.html
+
+- nav-text: Virtual Setup
+  link: pre-eventChecklist.html
+
+- nav-text: Use Case's
+  link: useCases.html
+
+- nav-text: Structured Learning
+  link: Structured_Learning/structuredLearning.html
