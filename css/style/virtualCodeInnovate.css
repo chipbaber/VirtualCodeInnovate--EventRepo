@@ -1,6 +1,6 @@
 @font-face {
   font-family: "OracleSansVF";
-  src: url("https://www.oracle.com/asset/web/fonts/OracleSansVF.woff2") format("woff2");
+  src: url("https://chipbaber.github.io/VirtualCodeInnovate--EventRepo/css/style/OracleSansVF.woff2") format("woff2");
   font-style: normal;
   font-weight: 275 800;
   font-display: fallback;
@@ -40,6 +40,7 @@ float:left;
 padding: 0px 30px ;
 background-color: #3A3631;
 width: 100%;
+margin-bottom: 1em;
 }
 
 .nav-item{
@@ -66,4 +67,9 @@ color: #3A3631;
 
 .my-5-cb a:visited{
 color: #3A3631;
+}
+
+.markdown-body-cb {
+    line-height: 1.3;
+    word-wrap: break-word;
 }

@@ -21,19 +21,8 @@
     <div class="nav-item"><a href="{{ nav-item.link }}">{{ nav-item.nav-text }}</a></div>
     {% endfor %}
     </div>
-    <!--
-    <div class="nav">
-      <div class="nav-item"><a href="index.html">Home</a></div>
-      <div class="nav-item"><a href="codeteams.html">Groups</a></div>
-      <div class="nav-item"><a href="oracleteam.html">Our Team</a></div>
-      <div class="nav-item"><a href="calendar.html">Agenda/Logistics</a></div>
-      <div class="nav-item"><a href="pre-eventChecklist.html">Virtual Setup</a></div>
-      <div class="nav-item"><a href="useCases.html">Use Case Overview</a></div>
-      <div class="nav-item"><a href="Structured_Learning/structuredLearning.html">Use Case Overview</a></div>
-    </div>
-  -->
 
-    <div class="container-lg px-3 my-5-cb markdown-body">
+    <div class="container-lg px-3 my-5-cb markdown-body-cb">
       {{ content }}
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
