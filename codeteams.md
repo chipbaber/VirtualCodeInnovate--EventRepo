@@ -1,12 +1,29 @@
 
-Enter Team Members Here:
+### Code Innovate Teams
 ---
-[**Team 1:**](https://github.com/chipbaber/virtualCodeInnovate/wiki)
-| Name: | Email: |Github Username: | Phone: | Oracle Engineer |
-|---|---|---|---|---|
-|  | 	|  |  |  |
+What makes Code Innovate events so fun and effective are team dynamics. Participants are put into teams of 2-4 that work on solutions to use cases.  All teams will have Oracle engineers that will work at your side to help and guide you through the build process.  
 
-[**Team 2:**](https://github.com/chipbaber/virtualCodeInnovate/wiki)
-| Name: | Email: |Github Username: | Phone: | Oracle Engineer |
-|---|---|---|---|---|
-|  | 	|  |  |  |
+_Please enter the names of all potential attendees below_
+
+
+#### Enter Team Members Here:
+---
+**Team 1**  [Event Repository for Team](add github link)
+| Name 	        | Email	                |Github Username: | Phone:       |
+|---	        |---	                |---	          |---	         |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| | | | |
+| | | | |
+
+**Team 2**  [Event Repository for Team](add github link)
+| Name 	        | Email	                |Github Username: | Phone:       |
+|---	        |---	                |---	          |---	         |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| | | | |
+| | | | |

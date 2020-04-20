@@ -1,23 +1,23 @@
 
 
-Virtual Code Innovate is a 2-3 day online event where Oracle engineers will codevelop with you on use cases in the Cloud. This github project contains the core checklists, templates and coordination links required to execute the online event.
+Welcome to your personalized github repo for your upcoming Virtual Code Innovate Event. This repository will serve as a centralized location for online communication and documentation before, during and after your event.
+
+### Next Meeting
+- Add Date, Add Time, [Slack URL]()
+
+### Your next actions
+[ ] Type in high level use case ideas [here](useCases.md)
+[ ] Provide attendee names [here](codeTeams.md)
+
+### What to Expect at Your Event
+Virtual Code Innovate is a 2-3 day online event where Oracle engineers will co-develop with you on use cases in the Cloud.
+
 <a href="https://www.youtube.com/watch?v=haHgmQsTA9Y" target="promo" >
 ![thumbnail of promo](img/promo_thumb.jpg)
 </a>
 
-Sounds Interesting..
-
-Teams
----
-What makes Code Innovate events so fun and effective are team dynamics.  Participants are put into [teams](codeteams.md) that work on solutions to use cases.  All teams will have Oracle engineers that will work at your side to help and guide you through the build process.  Click [here](oracleteam.md) to learn more about your Oracle Solution Engineering partners.  
 
 
-
-Preparation
----
-**Use Case Overview:**  Initial discussions will identify possible use cases.  Document them [here](Use%20Cases.md).  After teams are formed and high level use cases are identified you will break out into your groups to flush out more detail and identify necessary services that will be used.
-
-**Structured Learning/Demos:** Prior to the event you will be introduced to Cloud Services that you may use to solve your use case.  Often going into the build process you may not be certain of what you use, and may want to know more about a particular service.  You can 'sign up' for demos that you're interested in [here](demos.md).
 
 **Slack:** We will be using Slack to communicate.  [Here is the link to your event slack channel](https://app.slack.com/client/T010P2VN7R8/learning-slack).  Download Slack for [Windows](https://slack.com/downloads/windows), [MAC](https://slack.com/help/articles/207677868-Download-Slack-for-Mac), [Linux](https://slack.com/downloads/linux), or [Andriod](https://slack.com/downloads/android).
 
