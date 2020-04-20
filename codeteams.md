@@ -12,19 +12,19 @@ _Please enter the names of all potential attendees below_
 
 **Team 1**  [Event Repository for Team](http://addSlackUrl)
 
-| Name 	        | Email	                |Github Username: | Phone:       |
-|---	        |---	                |---	          |---	         |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| Name 	      | Email	            |Github Username:     | Phone:       |
+|---	        |---	                |---	              |---	         |
+|  add name  	|  add email  	|  add github username 	  |  add phone   |
+|  add name  	|  add email  	|  add github username 	  |  add phone   |
+|  add name  	|  add email  	|  add github username 	  |  add phone   |
+|  add name  	|  add email  	|  add github username 	  |  add phone   |
 
 
 **Team 2**  [Event Repository for Team](http://addSlackUrl)
 
-| Name 	        | Email	                |Github Username: | Phone:       |
-|---	          |---	                  |---	            |---	         |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
-| <add name>  	| <add email>  	| <add github username> 	  | <add phone> |
+| Name 	      | Email	        | Github Username:        | Phone:     |
+|---	        |---	          |---	                    |---	       |
+|  add name  	|  add email  	|  add github username 	  |  add phone |
+|  add name  	|  add email  	|  add github username 	  |  add phone |
+|  add name  	|  add email  	|  add github username 	  |  add phone |
+|  add name  	|  add email  	|  add github username 	  |  add phone |
