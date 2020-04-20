@@ -8,8 +8,8 @@ _Structured Learning is tailored to the use case requirements for each group. It
 
 #### Group 1 - <add use case name> Structured Learning Presentation
 
-Add Date, Add Time, [Slack URL]()
+Add Date, Add Time, [Slack URL](http://addSlackUrl)
 
 #### Group 2 - <add use case name> Structured Learning Presentation
 
-Add Date, Add Time, [Slack URL]()
+Add Date, Add Time, [Slack URL](http://addSlackUrl)

@@ -43,5 +43,3 @@ Integration, Engagement Cloud SaaS Cloud API, Apiary, Identity Cloud Service, Vi
 - Some of the data needs to be transformed from Engagement Cloud, merged with details from third party system to display correctly in app.
 
 - Need app to be web and mobile. Not sure what to build it in.
-
--------------------------------------------------------------------------------
