@@ -1,16 +1,12 @@
-
-### Code Innovate Teams
+## Code Innovate Teams
 ---
-
 What makes Code Innovate events so fun and effective are team dynamics. Participants are put into teams of 2-4 that work on solutions to use cases.  All teams will have Oracle engineers that will work at your side to help and guide you through the build process.  
 
 _Please enter the names of all potential attendees below_
 
-
-#### Enter Team Members Here:
+## Enter Team Members Here:
 ---
-
-**Team 1**  [Event Repository for Team](http://addSlackUrl)
+### **Team 1**  [Link to Team Repository](http://addSlackUrl)
 
 | Name 	      | Email	            |Github Username:     | Phone:       |
 |---	        |---	                |---	              |---	         |
@@ -20,7 +16,7 @@ _Please enter the names of all potential attendees below_
 |  add name  	|  add email  	|  add github username 	  |  add phone   |
 
 
-**Team 2**  [Event Repository for Team](http://addSlackUrl)
+### **Team 2**  [Link to Team Repository](http://addSlackUrl)
 
 | Name 	      | Email	        | Github Username:        | Phone:        |
 |---	        |---	          |---	                    |---	          |

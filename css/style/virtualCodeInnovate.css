@@ -16,6 +16,22 @@ color: #161513;
 font-size: 1.4rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+color: #AE562C;
+margin-bottom: .3em;
+}
+
+hr{
+  border-bottom: 1px solid rgba(103,96,91,.5);
+}
+
+
+p {
+  font-size: .9em;
+  margin-top: 0;
+  margin-bottom: .3em;
+ }
+
 a {color:#FCFBFA; text-decoration: none;}
 a:active{text-decoration: none;}
 a:link{text-decoration: none;}
