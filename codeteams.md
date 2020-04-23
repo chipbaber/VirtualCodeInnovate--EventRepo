@@ -4,9 +4,7 @@ What makes Code Innovate events so fun and effective are team dynamics. Particip
 
 _Please enter the names of all potential attendees below_
 
-## Enter Team Members Here:
----
-### **Team 1**  -- [Link to Team Repository](http://addGitURL)
+### **Team 1**  -- [Team Repository](http://addGitURL)
 
 | Name 	      | Email	            |Github Username:     | Phone:       |
 |---	        |---	                |---	              |---	         |
@@ -16,7 +14,7 @@ _Please enter the names of all potential attendees below_
 |  add name  	|  add email  	|  add github username 	  |  add phone   |
 
 
-### **Team 2**  -- [Link to Team Repository](http://addGitURL)
+### **Team 2**  -- [Team Repository](http://addGitURL)
 
 | Name 	      | Email	        | Github Username:        | Phone:        |
 |---	        |---	          |---	                    |---	          |
