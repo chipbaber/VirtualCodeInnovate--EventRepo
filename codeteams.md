@@ -6,7 +6,7 @@ _Please enter the names of all potential attendees below_
 
 ## Enter Team Members Here:
 ---
-### **Team 1**  [Link to Team Repository](http://addSlackUrl)
+### **Team 1**  -- [Link to Team Repository](http://addGitURL)
 
 | Name 	      | Email	            |Github Username:     | Phone:       |
 |---	        |---	                |---	              |---	         |
@@ -16,7 +16,7 @@ _Please enter the names of all potential attendees below_
 |  add name  	|  add email  	|  add github username 	  |  add phone   |
 
 
-### **Team 2**  [Link to Team Repository](http://addSlackUrl)
+### **Team 2**  -- [Link to Team Repository](http://addGitURL)
 
 | Name 	      | Email	        | Github Username:        | Phone:        |
 |---	        |---	          |---	                    |---	          |

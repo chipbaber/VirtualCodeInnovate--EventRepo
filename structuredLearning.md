@@ -7,11 +7,13 @@ _Structured Learning is tailored to the use case requirements for each group. It
 ### Upcoming Structured Learning Event Times  
 
 **Group 1 - <add use case name> Structured Learning Presentation**
+
 | Date         | Time      | Zoom ID         |
 |---           |---        |---              |
 | Add Date     | 00:00 AM  | [Zoom](https://oracle.zoom.us/my/frank.baber?pwd=M09zSC9POTBDQWFJUW42NWUrTUN4Zz09) |
 
 **Group 2 - <add use case name> Structured Learning Presentation**
+
 | Date         | Time      | Zoom ID         |
 |---           |---        |---              |
 | Add Date     | 00:00 AM  | [Zoom](https://oracle.zoom.us/my/frank.baber?pwd=M09zSC9POTBDQWFJUW42NWUrTUN4Zz09) |
