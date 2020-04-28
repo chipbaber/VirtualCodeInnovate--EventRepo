@@ -3,9 +3,6 @@
 
 Several weeks leading up to the event we'll be engaging with you to learn more about your use cases, the services we may use, and who will be participating.  
 
-### Upcoming Events
----
-
 #### Weekly Check-in Meetings
 
 | Date         | Time      | Zoom ID         |
@@ -14,10 +11,10 @@ Several weeks leading up to the event we'll be engaging with you to learn more a
 
 #### Event Action Items
 
-- [ ] (Add Owner Name) Add Customer Action Item 1
-- [ ] (Add Owner Name) Add Customer Action Item 2
-- [ ] (Add Owner Name) Add Customer Action Item 3
-- [ ] (Add Owner Name) Add Customer Action Item 4
+[ ] (Add Owner Name) Add Customer Action Item 1
+[ ] (Add Owner Name) Add Customer Action Item 2
+[ ] (Add Owner Name) Add Customer Action Item 3
+[ ] (Add Owner Name) Add Customer Action Item 4
 
 #### Event Date
 

@@ -1,6 +1,6 @@
 @font-face {
   font-family: "OracleSansVF";
-  src: url("https://chipbaber.github.io/VirtualCodeInnovate--EventRepo/css/style/OracleSansVF.woff2") format("woff2");
+  src: url("css/style/OracleSansVF.woff2") format("woff2");
   font-style: normal;
   font-weight: 275 800;
   font-display: fallback;
@@ -59,12 +59,22 @@ th {
 }
 
 td {
-  padding: 8px 15px;
   font-size: .9em;
-  padding: 0 2em;
+  padding: .5em 2em;
   text-align: center;
   vertical-align: top;
 }
+
+
+ul{
+  list-style-type: circle;
+}
+
+li{
+  padding: 3px 0;
+  font-size: .9em;
+}
+
 
 .banner{
 }
