@@ -68,6 +68,7 @@ td {
 
 ul{
   list-style-type: circle;
+  margin-bottom: .5em;
 }
 
 li{
