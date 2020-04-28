@@ -12,31 +12,25 @@ _Feel free to type in any ideas below._
 **Potential Cloud Services Required (Optional)**
 - Add Notes or Outline Here
 
-**Description/Notes**
+**Notes/Ideas**
 - Add Notes or Outline Here
 
 ---
-### Add Idea 1 Name
+### Add Idea 2 Name
 
 **Potential Skillsets Required**
 - Add Notes or Outline Here
 
-**Potential Cloud Services Required (Optional)**
-- Add Notes or Outline Here
-
-**Description/Notes**
+**Notes/Ideas**
 - Add Notes or Outline Here
 
 -------------------------------------------------------------------------------
 ### _(Example)_ Create Integrations and Extend Engagement Cloud with Custom App
 
 **Potential Skillsets Required**
-Integration, Engagement Cloud SaaS Cloud API, Apiary, Identity Cloud Service, Visual Builder Cloud Service
+- Integration, Engagement Cloud SaaS Cloud API, Apiary, Identity Cloud Service, Visual Builder Cloud Service
 
-**Potential Cloud Services Required (Optional)**
-
-
-**Description/Notes**
+**Notes/Ideas**
 
 - We use engagement Cloud today. We need a custom app, a custom view that exposes some information to one group of customers. Exposes more information to another group.
 
