@@ -106,10 +106,12 @@ color: #FCFBFA;
 /*Bio CSS*/
 .hubperson{
 background-color: rgba(229,219,190,.3);
+margin-top: 1.3em;
+width:49%;
 }
 
 .hubperson p {
-font-size: .9em;
+
 }
 
 .aboutText{
