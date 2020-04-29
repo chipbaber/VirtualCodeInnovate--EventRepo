@@ -107,6 +107,7 @@ color: #FCFBFA;
 .hubperson{
 background-color: rgba(229,219,190,.3);
 margin-top: 1.3em;
+width:100%;
 }
 
 .hubperson p {
@@ -141,14 +142,6 @@ padding: 0 0;
   padding: 0 1.5em;
 }
 
-.framer{
-border: 0;
-}
-
-.framer td {
-  vertical-align: top;
-  padding: 0 1px 0 0;
-}
 
 /* Overwriting CSS from Core Jekyll Template*/
 .my-5-cb{
