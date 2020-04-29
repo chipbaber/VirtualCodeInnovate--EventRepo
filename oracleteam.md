@@ -2,7 +2,7 @@
 
 <table class="hubperson"><tr>
 <td class="sepicture"><img src="img/chipb.png"/></td>
-<tdclass="setext"><p><h3>Chip Baber</h3></p>
+<td class="setext"><p><h3>Chip Baber</h3></p>
 <p><em>NAC Lead, Developer Innovations Team</em></p>
 <p>
 <a href="https://www.linkedin.com/in/chipbaber">LinkedIn</a>
