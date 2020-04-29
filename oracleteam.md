@@ -5,29 +5,19 @@
 <td class="setext"><p><h3>Chip Baber</h3></p>
 <p><em>NAC Lead, Developer Innovations Team</em></p>
 <p>
-<a href="https://www.linkedin.com/in/chipbaber">LinkedIn</a>
-<a href="https://github.com/chipbaber"> - Github</a>
-<a href="https://"> - Video Intro</a>
+<a href="https://www.linkedin.com/in/chipbaber" target="lin">LinkedIn</a> -
+<a href="https://github.com/chipbaber" target="git">Github</a> -
+<a href="https://https://twitter.com/chipbaber" target="twit">Twitter</a>
 </p>
 </td></tr><tr><td colspan="2" class="seDetailSpace">
 <h4>About</h4>
 <p class="aboutText">
 Seeing technology in action, in context of the business can truly bring ideas to life. As the Director of the Oracle Cloud Solution Hubs, Developer Innovation Team I lead a group of highly skilled technical engineers as they work with developers to visualize new possibilities in the Cloud. It is not just about showcasing Cloud, it is about making the Cloud to life through entertaining, programmatic hands on experiences. I lead Oracle's Code Innovate, Cloud Coaching and Cloud Accelerate programs for Oracle's NAC division. At my core I am both a programmer and a creative. I thrive analyzing complex problems and leveraging IaaS and PaaS Cloud solutions to innovate.
 </p></td></tr><tr><td colspan="2" class="seDetailSpace">
-<h4>Hobbies or Interests</h4>
+<h4>Hobbies</h4>
 <p>
 Baseball, Nascar, DraftKings
 </p></td></tr></table>
-
-**Chip Baber - Event Director**
----
-[Linkedin](https://www.linkedin.com/in/chipbaber)
-
-![thumbnail of promo](img/chipb.png)
-
-__My Work Passion:__  Seeing technology in action, in context of the business can truly bring ideas to life. As the Director of the Oracle Cloud Solution Hubs, Developer Innovation Team I lead a group of highly skilled technical engineers as they work with developers to visualize new possibilities in the Cloud. It is not just about showcasing Cloud, it is about making the Cloud to life through entertaining, programmatic hands on experiences. I lead Oracle's Code Innovate, Cloud Coaching and Cloud Accelerate programs for Oracle's NAC division. At my core I am both a programmer and a creative. I thrive analyzing complex problems and leveraging IaaS and PaaS Cloud solutions to innovate.
-
-__My Leisure Passion:__  
 
  **Derrick Cameron - Engineering Team Lead**
 ---

@@ -105,7 +105,6 @@ color: #FCFBFA;
 }
 /*Bio CSS*/
 .hubperson{
-border: 0;
 background-color: rgba(229,219,190,.3);
 }
 
@@ -119,16 +118,10 @@ font-size: .9em;
 
 .hubperson td{
 text-align: left;
-padding: 0 0;
 }
 
 .seDetailSpace{
-  padding: 0 .3em;
-}
-
-.hubperson td{
-text-align: left;
-padding: 0 0;
+  padding: 0 .7em;
 }
 
 .hubperson a{
@@ -141,6 +134,7 @@ max-width: 150px;
 
 .sepicture {
 width: 150px;
+padding: 0 0;
 }
 .setext{
   padding: 0 1.5em;
