@@ -1,16 +1,16 @@
 # Below are the Engineers that will be Supporting your Event
 
 <table class="hubperson"><tr>
-<td class="sepicture">![thumbnail of promo](img/chipb.png)</td>
-<td><p>Chip Baber</p>
-<p>NAC Lead, Developer Innovations Team</p>
-<p>[LinkedIn](https://www.linkedin.com/in/chipbaber)</p>
+<td class="sepicture"><img src="img/chipb.png"/></td>
+<td><p><h3>Chip Baber</h3></p>
+<p><em>NAC Lead, Developer Innovations Team</em></p>
+<p><a href="https://www.linkedin.com/in/chipbaber">LinkedIn</a></p>
 </td></tr><tr><td colspan="2">
-**About**
+<h4>About</h4>
 <p>
 Seeing technology in action, in context of the business can truly bring ideas to life. As the Director of the Oracle Cloud Solution Hubs, Developer Innovation Team I lead a group of highly skilled technical engineers as they work with developers to visualize new possibilities in the Cloud. It is not just about showcasing Cloud, it is about making the Cloud to life through entertaining, programmatic hands on experiences. I lead Oracle's Code Innovate, Cloud Coaching and Cloud Accelerate programs for Oracle's NAC division. At my core I am both a programmer and a creative. I thrive analyzing complex problems and leveraging IaaS and PaaS Cloud solutions to innovate.
 </p></td></tr><tr><td colspan="2">
-**Hobbies or Interests***
+<h4>Hobbies or Interests</h4>
 <p>
 Baseball, Nascar, DraftKings
 </p></td></tr></table>

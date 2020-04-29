@@ -109,7 +109,11 @@ color: #FCFBFA;
 }
 
 .hubperson p {
+font-size: .8em;
+}
 
+.hubperson td{
+text-align: left;
 }
 
 .hubperson img {
