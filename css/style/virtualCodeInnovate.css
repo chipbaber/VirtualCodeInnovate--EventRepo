@@ -142,6 +142,13 @@ padding: 0 0;
   padding: 0 1.5em;
 }
 
+.framer{
+
+}
+.framer td {
+  vertical-align: top;
+}
+
 /* Overwriting CSS from Core Jekyll Template*/
 .my-5-cb{
   padding: 2em 0;
