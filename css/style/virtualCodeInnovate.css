@@ -103,6 +103,22 @@ color: #FCFBFA;
   color: #3A3631;
   background-color: rgba(255,255,255,.4);
 }
+/*Bio CSS*/
+.hubperson{
+
+}
+
+.hubperson p {
+
+}
+
+.hubperson img {
+max-width: 150px;
+}
+
+.sepicture {
+
+}
 
 /* Overwriting CSS from Core Jekyll Template*/
 .my-5-cb{
