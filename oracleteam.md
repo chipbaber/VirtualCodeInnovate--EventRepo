@@ -12,7 +12,7 @@
 </td></tr><tr><td colspan="2" class="seDetailSpace">
 <h4>About</h4>
 <p class="aboutText">
-Seeing technology in action, in context of the business can truly bring ideas to life. I lead a group of highly skilled technical engineers as they work with developers to visualize new possibilities in the Cloud. It is not just about showcasing Cloud, it is about making the Cloud to life through entertaining, programmatic hands on experiences. I lead Oracle's Code Innovate, Cloud Coaching and Cloud Accelerate programs for Oracle's NAC division. At my core I am both a programmer and a creative. I thrive analyzing complex problems and leveraging IaaS and PaaS Cloud solutions to innovate.
+ I lead a group of highly skilled technical engineers as they work with developers to visualize new possibilities in the Cloud. It is not just about showcasing Cloud, it is about making the Cloud to life through entertaining, programmatic hands on experiences. I lead Oracle's Code Innovate, Cloud Coaching and Cloud Accelerate programs for Oracle's NAC division. At my core I am both a programmer and a creative. I thrive analyzing complex problems and leveraging IaaS and PaaS Cloud solutions to innovate.
 </p></td></tr><tr><td colspan="2" class="seDetailSpace">
 <h4>Hobbies</h4>
 <p class="aboutText">
