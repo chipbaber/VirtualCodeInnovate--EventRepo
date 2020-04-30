@@ -16,12 +16,12 @@ _Structured Learning is tailored to the use case requirements for each group. It
 
 | Selected   | Demonstrations         | Estimated Time      | Description           |
 |:--:        |:---                    |:---:                |:---                   |
-| - [ ]        | Add Name               | XX mins.            | Add Text              |
+| Yes/No        | Add Name               | XX mins.            | Add Text              |
 
 
 | Selected   | Workshops              | Estimated Time      | Description           |
 |:--:        |:---                    |:---:                |:---                   |
-| - [ ]        | Add Name               | XX mins.            | Add Text              |
+| Yes/No       | Add Name               | XX mins.            | Add Text              |
 
 #### Group 2 - <add use case name> Structured Learning Presentation
 
@@ -33,9 +33,9 @@ _Structured Learning is tailored to the use case requirements for each group. It
 
 | Selected   | Demonstrations         | Estimated Time      | Description           |
 |:--:        |:---                    |:---:                |:---                   |
-| - [ ]        | Add Name               | XX mins.            | Add Text              |
+| Yes/No        | Add Name               | XX mins.            | Add Text              |
 
 
 | Selected   | Workshops              | Estimated Time      | Description           |
 |:--:        |:---                    |:---:                |:---                   |
-| - [ ]        | Add Name               | XX mins.            | Add Text              |
+| Yes/No       | Add Name               | XX mins.            | Add Text              |
