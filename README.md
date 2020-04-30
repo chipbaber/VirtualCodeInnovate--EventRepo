@@ -12,6 +12,6 @@ Add Date, Add Time, [Slack URL](http://addSlackUrl)
 
 ## Your next actions
 ---
-  [ ] Type in high level use case ideas [here](useCases.html)
+  -  [ ] Type in high level use case ideas [here](useCases.html)
 
-  [ ] Provide attendee names [here](codeTeams.html)
+  -  [ ] Provide attendee names [here](codeTeams.html)
