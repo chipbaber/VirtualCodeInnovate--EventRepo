@@ -12,7 +12,7 @@ _Structured Learning is tailored to the use case requirements for each group. It
 |---           |---        |---              |
 | Add Date     | 00:00 AM  | [Zoom](https://oracle.zoom.us/my/frank.baber?pwd=M09zSC9POTBDQWFJUW42NWUrTUN4Zz09) |
 
-**Structued Learning Options**
+**Structured Learning Options**
 
 | Selected   | Demonstrations         | Estimated Time      | Description           |
 |:--:        |:---                    |:---:                |:---                   |
