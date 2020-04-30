@@ -18,15 +18,18 @@ Add Notes or Outline Here
 ### Add Idea 2 Name
 
 **Potential Skillsets Required**
+
 Add Notes or Outline Here
 
 **Notes/Ideas**
+
 Add Notes or Outline Here
 
 -------------------------------------------------------------------------------
 ### _(Example)_ Create Integrations and Extend Engagement Cloud with Custom App
 
 **Potential Skillsets Required**
+
 Integration, Engagement Cloud SaaS Cloud API, Apiary, Identity Cloud Service, Visual Builder Cloud Service
 
 **Notes/Ideas**
