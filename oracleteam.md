@@ -1,6 +1,6 @@
 # Below are the Engineers that will be Supporting your Event
 <table class="hubperson"><tr>
-<td class="sepicture"><img src="img/chipb.png"/></td>
+<td class="sepicture"><img src="https://avatars0.githubusercontent.com/u/32364785?s=460&u=fec66dcd4f9bb39407746f58dfd89d15a29f627e&v=4"/></td>
 <td class="setext"><p><h3>Chip Baber</h3></p>
 <p><em>NAC Lead, Developer Innovations Team</em></p>
 <p>
@@ -19,7 +19,7 @@ Baseball, Nascar, DraftKings
 </p></td></tr></table>
 
 <table class="hubperson"><tr>
-<td class="sepicture"><img src="img/derrick.png"/></td>
+<td class="sepicture"><img src="https://avatars1.githubusercontent.com/u/25514773?s=460&u=85b873042fb6973be0384da1cc63471784174482&v=4"/></td>
 <td class="setext"><p><h3>Derrick Cameron</h3></p>
 <p><em>Master Principal Engineer, Developer Innovations Team</em></p>
 <p>

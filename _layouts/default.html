@@ -17,9 +17,11 @@
     <img src="img/Banner_1.png" class="banner-img">
     </div>
     <div class="nav">
+      <div class="container-lg">
     {% for nav-item in site.data.navigation %}
     <div class="nav-item"><a href="{{ nav-item.link }}">{{ nav-item.nav-text }}</a></div>
     {% endfor %}
+      </div>
     </div>
 
     <div class="container-lg px-3 my-5-cb markdown-body-cb">
