@@ -4,10 +4,10 @@ You are welcome to install the software before the event or have our engineers C
 
 ### Required Software/Actions
 
-  - [ ] Zoom [Download Instrucitons _(X min) &#9658;_](https://zoom.us/download)
-  - [ ] Operational WebCam & Microphone in Zoom [Instructions _(X min) &#9658;_](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)
-  - [ ] [Chrome _(X min) &#9658;_](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIsP3wuKKQ6QIVDJyzCh2vBgYrEAAYASABEgJUFvD_BwE&gclsrc=aw.ds) or [Firefox _(X min) &#9658;_](https://www.mozilla.org/en-US/firefox/new/) Installed
-  - [ ] Github Account [Instructions _(X min) &#9658;_](https://videohub.oracle.com/media/How+to+Create+a+Github+Account/1_butiy9ju/161336821)   
+  - [ ] Zoom [Download Instructions _(5 min)_](https://zoom.us/download)
+  - [ ] Operational WebCam & Microphone in Zoom [Instructions _(5 min)_](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)
+  - [ ] [Chrome _(5 min)_](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIsP3wuKKQ6QIVDJyzCh2vBgYrEAAYASABEgJUFvD_BwE&gclsrc=aw.ds) or [Firefox _(5 min)_](https://www.mozilla.org/en-US/firefox/new/) Installed
+  - [ ] Github Account [Instructions _(2 min) &#9658;_](https://videohub.oracle.com/media/How+to+Create+a+Github+Account/1_butiy9ju/161336821)   
   - [ ] Connecting to Event Slack Channel [Video _(X min) &#9658;_](https://addlink)
 
 
