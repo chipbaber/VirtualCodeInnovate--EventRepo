@@ -15,7 +15,7 @@ You are welcome to install the software before the event or have our engineers C
 - [ ] Learn how to Whiteboard in Zoom [Video _(2 min) &#9658;_ ](https://videohub.oracle.com/media/1_rrtt48xh)
 - [ ] Github Wiki Tutorial [Video _(2 min) &#9658;_](https://videohub.oracle.com/media/1_jo0rpq1p)
 - [ ] Github Ideation Tutorial [Video _(2 min) &#9658;_](https://videohub.oracle.com/media/1_jr2jrhuu)
-- [ ] Github Development Task List Tutorial [Video _(2 min) &#9658;_](https://videohub.oracle.com/media/1_jihglnvj)
 - [ ] Github Creating a Goal Statement [Video _(2 min) &#9658;_](https://videohub.oracle.com/media/1_54v896j9)
+- [ ] Github Development Task List Tutorial [Video _(2 min) &#9658;_](https://videohub.oracle.com/media/1_jihglnvj)
 - [ ] Github Creating a Issue [Video _(4 min) &#9658;_](https://videohub.oracle.com/media/1_zlh127rj)
 - [ ] How to Message Engineers in Slack [Video _(X min) &#9658;_](https://addlink)
